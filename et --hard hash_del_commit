@@ -1,0 +1,36 @@
+[33mcommit 95e67457a92d324de68a011a0abc185caa1ea8a7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: b362aae 7f73c92
+Author: JuanfraaCode <jf7cabrera@gmail.com>
+Date:   Sun Sep 22 18:15:19 2024 -0500
+
+    Merge branch 'master' of https://github.com/JuanfraaCode/patitas-frontend-b
+
+[33mcommit b362aaed4b7306141cdba60eda401c36ea745c01[m
+Author: JuanfraaCode <jf7cabrera@gmail.com>
+Date:   Sun Sep 22 16:13:30 2024 -0500
+
+    Configuración de RestTemplate
+
+[33mcommit 7f73c92fad793266e0bee561ae1b0680bbae718a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Juanfra Cabrera <112267917+JuanfraaCode@users.noreply.github.com>
+Date:   Sun Sep 22 13:43:54 2024 -0500
+
+    Delete .mvn/wrapper directory
+
+[33mcommit 5064cb11c408f001c0df36418b12f97b128e83cd[m
+Author: JuanfraaCode <jf7cabrera@gmail.com>
+Date:   Sat Sep 21 22:31:33 2024 -0500
+
+    Segundo Commit
+
+[33mcommit a846562a0e0d96f3f675154802eceaccc8585e99[m
+Author: JuanfraaCode <jf7cabrera@gmail.com>
+Date:   Sat Sep 21 19:56:56 2024 -0500
+
+    Adicional en gitignore
+
+[33mcommit cb373e2a67e651628e8b7b995d455834d3983b90[m
+Author: JuanfraaCode <jf7cabrera@gmail.com>
+Date:   Sat Sep 21 19:47:53 2024 -0500
+
+    Primer Commit
